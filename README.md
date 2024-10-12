@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Reza
-- 👀 I’m interested in data scientist
+- 👋 Hi, I’m Reza Hosseini
+- 👀 I’m interested in data science
 - 🌱 I’m currently learning deep learning algorithms
 - 📫 How to reach me on https://hosseinisreza95.github.io/
 
