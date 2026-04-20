@@ -1,9 +1,16 @@
-- 👋 Hi, I’m Reza Hosseini
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning deep learning algorithms
-- 📫 How to reach me on https://hosseinisreza95.github.io/
+## 👋 About Me
 
-<!---
-hosseinisreza95/hosseinisreza95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Data Scientist with 6+ years of experience turning complex data into actionable business insights.
+
+I specialize in:
+- Building and deploying machine learning models  
+- Performing statistical analysis  
+- Creating dynamic dashboards  
+
+I have worked across domains such as finance and environmental data.
+
+Currently, I’m focused on expanding my expertise in:
+- Generative AI  
+- Large Language Models (LLMs)  
+
+I’m passionate about continuous learning and applying emerging AI technologies to build practical, data-driven solutions.
