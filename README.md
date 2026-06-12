@@ -1,6 +1,6 @@
 ## 👋 About Me
 
-Data Scientist with 6+ years of experience turning complex data into actionable business insights.
+ML | AI Engineer with 5+ years of experience building and deploying production-grade machine learning systems.
 
 I specialize in:
 - Building and deploying machine learning models  
