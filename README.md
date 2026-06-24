@@ -69,11 +69,11 @@ I enjoy transforming data into practical solutions, from predictive analytics an
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hosseinisreza95&show_icons=true&theme=transparent" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hosseinisreza95&layout=compact&theme=transparent" />
 </p>
 
 ---
@@ -81,7 +81,7 @@ I enjoy transforming data into practical solutions, from predictive analytics an
 ## 🤝 Connect With Me
 
 <p align="left">
-<a href="YOUR_LINKEDIN_URL" target="blank">
+<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/hosseinisreza95/)" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" />
 </a>
 
