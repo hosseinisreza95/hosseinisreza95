@@ -8,7 +8,7 @@
 🇫🇷 Based in France • 🚀 5+ Years of Experience • 🧠 AI, LLMs & Agentic Systems
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -16,7 +16,7 @@ I'm a Machine Learning & AI Engineer with 5+ years of experience building and de
 
 I enjoy transforming data into practical solutions, from predictive analytics and intelligent automation to modern AI applications powered by Large Language Models.
 
----
+
 
 ## 🚀 Current Focus
 
